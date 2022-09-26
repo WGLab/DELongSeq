@@ -10,7 +10,7 @@ $ R --version
 # R version 3.5.2
 ```
 
-Following packages are required for running `liqa`: 
+Following packages are required for running `delongseq`: 
 
   - Python:
     * Pysam
