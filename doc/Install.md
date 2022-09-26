@@ -27,7 +27,7 @@ Among the required packages, `math`, `sys`, `os`, `re` and `time` are included i
 Download the package from [Github](https://github.com/WGLab/DELongSeq) and install it locally:
 
 ```bash
-git clone https://github.com/WGLab/LIQA.git
+git clone https://github.com/WGLab/DELongSeq.git
 cd DELongSeq
 ```
 
