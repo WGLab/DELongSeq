@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from delongseq_src import my_functions as my
+import my_functions as my
 
 import os, sys
 
