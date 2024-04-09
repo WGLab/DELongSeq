@@ -16,3 +16,7 @@ Please refere to [Usage](https://github.com/WGLab/DELongSeq/blob/master/doc/Usag
 ## Contact
 
 If you have any questions/issues/bugs, please post them on [GitHub](https://github.com/WGLab/DELongSeq/issues). They would also be helpful to other users. 
+
+## Citation
+
+Yu Hu, Anagha Gouru, Kai Wang, DELongSeq for efficient detection of differential isoform expression from long-read RNA-seq data, NAR Genomics and Bioinformatics, Volume 5, Issue 1, March 2023, lqad019, [https://doi.org/10.1093/nargab/lqad019](url)
